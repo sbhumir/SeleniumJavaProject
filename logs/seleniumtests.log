@@ -1,0 +1,8 @@
+[INFO ] 2020-11-23 22:31:36.204 [main] Log4jDemo - This is info message
+[ERROR] 2020-11-23 22:31:36.208 [main] Log4jDemo - This is an error message
+[WARN ] 2020-11-23 22:31:36.209 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-11-23 22:31:36.209 [main] Log4jDemo - This is a fatal message
+[INFO ] 2020-11-23 22:48:01.554 [main] Log4jDemo - This is info message
+[ERROR] 2020-11-23 22:48:01.558 [main] Log4jDemo - This is an error message
+[WARN ] 2020-11-23 22:48:01.558 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-11-23 22:48:01.558 [main] Log4jDemo - This is a fatal message
